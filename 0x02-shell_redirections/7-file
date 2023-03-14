@@ -1,2 +1,5 @@
 #!/bin/bash
-echo "Best School" > \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+
+echo "Best School" > '*\\'"Best School"\'\\*$\?\*\*\*\*\*:) # write "Best School" to the file
+echo "" >> '*\\'"Best School"\'\\*$\?\*\*\*\*\*:) # add a newline to the end of the file
+
